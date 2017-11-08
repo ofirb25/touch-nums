@@ -1,0 +1,24 @@
+.numCell {
+    height:60px;
+    width:60px;
+    text-align: center;
+    background: lightskyblue;
+    margin:10px;
+    font-size: 20px;
+    
+}
+
+.clicked {
+background-color: rgb(49, 165, 49)
+}
+
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #ffe259, #ffa751); 
+    
+
+}
+table {
+    margin:auto;
+}
